@@ -1,0 +1,11 @@
+{
+  "name": "BMI Calculator",
+  "repo": "https://github.com/cekstedt/LAB-BMI-Calculator",
+  "challenger": "London App Brewery",
+  "challenge page": "https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12384620",
+  "hosted": "https://bmi-calculator-d96q.onrender.com",
+  "original": false,
+  "personal": false,
+  "thumbnail": "thumbnail.png",
+  "technologies": ["html", "javascript", "node", "express"]
+}
