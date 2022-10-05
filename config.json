@@ -7,5 +7,5 @@
   "original": false,
   "personal": false,
   "thumbnail": "thumbnail.png",
-  "technologies": ["html", "javascript", "node", "express"]
+  "technologies": ["html", "js", "node", "express"]
 }
