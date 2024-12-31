@@ -1,6 +1,6 @@
 # London App Brewery - BMI Calculator
 
-This is a solution to the [My First Server](https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12384620) challenge on [Udemy](https://www.udemy.com/course/the-complete-web-development-bootcamp/).
+This is a solution to the [BMI Calculator](https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12384620) challenge on [Udemy](https://www.udemy.com/course/the-complete-web-development-bootcamp/).
 
 ## Table of contents
 
